@@ -2,6 +2,7 @@
 Repository of some of my data related projects
 
 Data Analysis Pipeline
+
 Este script permite realizar un análisis exhaustivo de un conjunto de datos almacenado en un archivo CSV. Genera estadísticas descriptivas, distribuciones de datos, mapas de calor de correlación, y más. Además, guarda todos los resultados en una carpeta específica para una fácil consulta.
 
 Requisitos
