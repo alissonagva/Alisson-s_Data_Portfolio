@@ -6,9 +6,12 @@ Data Analysis Pipeline
 Este script permite realizar un análisis exhaustivo de un conjunto de datos almacenado en un archivo CSV. Genera estadísticas descriptivas, distribuciones de datos, mapas de calor de correlación, y más. Además, guarda todos los resultados en una carpeta específica para una fácil consulta.
 
 Requisitos
+
 Python 3.7 o superior
 Librerías necesarias: pandas, seaborn, matplotlib, concurrent.futures
+
 Instalación de dependencias
+
 pip install pandas seaborn matplotlib Coloca tu archivo CSV en la ubicación deseada. Ajusta las variables file_path y output_folder en el script para que apunten a tu archivo CSV y a la carpeta donde deseas guardar los resultados. Ejecuta el script:
 
 python analyze_data.py
