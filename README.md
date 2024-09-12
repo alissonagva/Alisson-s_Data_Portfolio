@@ -8,6 +8,7 @@ Este script permite realizar un análisis exhaustivo de un conjunto de datos alm
 Requisitos
 
 Python 3.7 o superior
+
 Librerías necesarias: pandas, seaborn, matplotlib, concurrent.futures
 
 Instalación de dependencias
